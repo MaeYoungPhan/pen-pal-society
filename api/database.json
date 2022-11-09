@@ -1,0 +1,154 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Shrek",
+      "email": "myswamp@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Puss 'n' Boots",
+      "email": "conleche@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Donkey",
+      "email": "shreksbff@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Fiona",
+      "email": "sortaprincess@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Gingerbread Man",
+      "email": "cantcatchme@email.com"
+    },
+    {
+      "id": 6,
+      "name": "Dragon",
+      "email": "firebreath@email.com"
+    }
+  ],
+  "recipients": [
+    {
+      "id": 1,
+      "name": "Fiona",
+      "email": "sortaprincess@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Gingerbread Man",
+      "email": "cantcatchme@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Dragon",
+      "email": "firebreath@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Shrek",
+      "email": "myswamp@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Puss 'n' Boots",
+      "email": "conleche@email.com"
+    },
+    {
+      "id": 6,
+      "name": "Donkey",
+      "email": "shreksbff@email.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "topic": "Rescue Missions"
+    },
+    {
+      "id": 2,
+      "topic": "Snacks"
+    },
+    {
+      "id": 3,
+      "topic": "Parties"
+    },
+    {
+      "id": 4,
+      "topic": "Fairy Tales"
+    },
+    {
+      "id": 5,
+      "topic": "Friendly"
+    },
+    {
+      "id": 6,
+      "topic": "Condolences"
+    },
+    {
+      "id": 7,
+      "topic": "Top Secret"
+    }
+  ],
+  "letters": [
+    {
+      "authorId": 3,
+      "topicId": 2,
+      "recipientId": 4,
+      "correspondence": "Waffles tomorrow. Your place.",
+      "date": "Fri Nov 04 2022 14:17:33 GMT-0500 (Central Daylight Time)",
+      "id": 1
+    },
+    {
+      "authorId": 1,
+      "topicId": 6,
+      "recipientId": 6,
+      "correspondence": "We just had waffles at my place this morning. No.",
+      "date": "Fri Nov 04 2022 14:26:05 GMT-0500 (Central Daylight Time)",
+      "id": 2
+    },
+    {
+      "authorId": 3,
+      "topicId": 2,
+      "recipientId": 4,
+      "correspondence": "Any day is a good day for waffles with my bff!",
+      "date": "Fri Nov 04 2022 14:26:37 GMT-0500 (Central Daylight Time)",
+      "id": 3
+    },
+    {
+      "authorId": 1,
+      "topicId": 2,
+      "recipientId": 6,
+      "correspondence": "We said waffles with bff would only be once a month. See you next month.",
+      "date": "Fri Nov 04 2022 14:27:12 GMT-0500 (Central Daylight Time)",
+      "id": 4
+    },
+    {
+      "authorId": 2,
+      "topicId": 2,
+      "recipientId": 4,
+      "correspondence": "Donkey said waffles at your place tomorrow. See you at 9am!",
+      "date": "Fri Nov 04 2022 14:27:35 GMT-0500 (Central Daylight Time)",
+      "id": 5
+    },
+    {
+      "authorId": 1,
+      "topicId": 6,
+      "recipientId": 5,
+      "correspondence": "no.",
+      "date": "Tue Nov 08 2022 11:04:20 GMT-0600 (Central Standard Time)",
+      "id": 6
+    },
+    {
+      "authorId": 2,
+      "topicId": 2,
+      "recipientId": 4,
+      "correspondence": "I'll bring the leche.",
+      "date": "Tue Nov 08 2022 11:32:02 GMT-0600 (Central Standard Time)",
+      "id": 7
+    }
+  ]
+}

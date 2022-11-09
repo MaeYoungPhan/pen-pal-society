@@ -1,0 +1,26 @@
+@import "details.css";
+@import url('https://fonts.googleapis.com/css2?family=Are+You+Serious&family=Mansalva&family=Puppies+Play&family=Twinkle+Star&display=swap');
+
+/*Typography
+--------------------------------------------------------------*/
+body,
+button,
+input {
+	color: #6c584c;
+	font-family: "Twinkle Star", serif;
+	font-size: 2rem;
+	line-height: 1.5;}
+select,
+textarea {
+	color: #adc178;
+	font-family: "Are You Serious", serif;
+	font-size: 1.5rem;
+	line-height: 1.5;
+	padding: 3px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Are You Serious", serif;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+}
